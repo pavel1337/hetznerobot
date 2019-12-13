@@ -1,0 +1,4 @@
+authorized_ids: [1, 2, 3]
+telegram_bot_api: "bot api"
+user: "user"
+password: "password"
